@@ -1,0 +1,406 @@
+<h1>EXAMPLES</h1>
+This is an example file that demonstrates the capabilities of txtFormatter v1.0
+
+
+<h2>TEXT ALIGNMENT</h2>
+<right>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</right>
+<sep>
+<center>
+Integer tempor phasellus augue, ut dui cras, nullam
+dapibus porta lectus hendrerit donec. Non molestie
+feugiat curabitur, dui posuere fermentum lacinia nibh.
+Facilisis nibh etiam, quisque nullam, commodo dictumst
+felis nisi potenti. Scelerisque cursus, imperdiet placerat lobortis
+dolor. Aliquam quisque massa, lacus quisque,
+sociosqu gravida sagittis dapibus justo egestas adipiscing.
+</center>
+
+
+<h2>PARAGRAPHS</h2>
+<p>
+Fames dictumst integer suscipit, primis velit nibh, porta blandit aenean
+venenatis ultricies quisque etiam. Sagittis suspendisse euismod, a tristique
+dui facilisis. Ullamcorper ut hendrerit, sapien curabitur, congue mollis
+lacinia egestas rhoncus posuere. Sociosqu massa hendrerit, rhoncus curae,
+lobortis congue tempor a ut risus. Pellentesque ut posuere, neque curabitur,
+viverra mauris curae nisl scelerisque. Ut curae convallis eleifend, imperdiet
+augue dolor pharetra eu.
+</p>
+<p>
+Hac aliquam risus fusce, eleifend volutpat dui, arcu metus vel nibh tortor
+rhoncus mollis sapien. Fringilla sociosqu dapibus, enim odio, netus feugiat
+cursus risus tincidunt. Integer phasellus quisque aenean, cursus ante nullam,
+class sollicitudin tortor a rhoncus luctus sem. Donec rutrum, fusce aptent ut
+tortor. Duis ligula ultrices ad, congue potenti consequat, aenean platea
+malesuada per nullam hac feugiat dictum. Et habitasse feugiat, lacinia tortor,
+netus quis felis cubilia venenatis. Sapien porta at, adipiscing curae
+vulputate quis.
+</p>
+<p>
+Proin quisque semper, ante dictumst etiam viverra. Est diam, enim ultricies
+placerat. Venenatis velit per quisque, vitae himenaeos sociosqu lorem
+placerat. Metus phasellus ad blandit, vehicula semper lacus, orci duis felis
+nulla facilisis auctor netus. Eleifend dictumst sit, class mauris suspendisse
+eget fringilla. Sollicitudin turpis adipiscing fusce, mollis erat risus,
+euismod aenean morbi non purus augue diam. Fames ut torquent fermentum,
+proin faucibus et, lacus ac est volutpat eget elit sem venenatis.
+Rutrum eleifend porta, lectus est curae class. Amet iaculis purus, adipiscing
+sollicitudin, potenti mollis blandit cubilia ipsum. Condimentum orci
+maecenas, class ut feugiat gravida suspendisse.
+</p>
+<sep>
+<p R>
+Cubilia tellus lacus, pharetra urna, lectus mi velit erat proin himenaeos
+curae. Conubia aliquet, praesent donec netus congue. Himenaeos faucibus
+accumsan, duis vulputate, augue netus gravida proin lorem lacinia.
+Mollis etiam ultricies sit, class nostra rutrum, egestas sapien dapibus
+libero vivamus cursus gravida. Nec sagittis cubilia aenean, proin torquent
+velit, interdum tempor quam nunc pharetra curabitur. Gravida nostra
+adipiscing facilisis, dapibus at vulputate, interdum sollicitudin et
+cras justo dui. Vitae maecenas eleifend convallis, nunc interdum habitasse,
+cras gravida blandit libero ultricies inceptos. Aliquam mauris conubia
+ut, est curabitur habitasse, litora praesent orci integer odio quisque.
+Mollis a tempor, massa suscipit, ullamcorper purus ligula urna senectus
+phasellus fermentum. Sociosqu himenaeos tempor sed, quam pulvinar
+adipiscing, vulputate metus taciti arcu sapien praesent eleifend tellus.
+</p>
+<p *>
+Tristique habitasse curae, nullam dictum, ultrices in nisl bibendum
+aenean curabitur fames. Mollis suscipit, eu fames nostra facilisis.
+Libero mauris eget, eu neque, aenean dictum suscipit est dui quam.
+Dapibus aenean diam blandit, convallis fermentum justo, et conubia
+vulputate porta nunc libero facilisis ut. Sollicitudin vitae, proin
+dui class rhoncus. Duis lacus, sapien magna eget ipsum.
+</p>
+<p ~>
+Cras sollicitudin egestas, tristique nibh, taciti elit varius leo
+lobortis litora dolor. Netus lacinia curabitur volutpat, venenatis
+mauris sed, ut felis potenti bibendum quam ultrices sollicitudin.
+Vehicula sodales, congue rhoncus blandit ut. Euismod ac, venenatis
+lectus nisi quisque. Porttitor sodales eu, ut metus, urna erat elit
+phasellus fermentum ac aenean. Blandit vivamus amet, elementum velit,
+diam sapien dapibus congue id. Pulvinar ornare tristique aliquam,
+aenean lobortis sem consequat elementum.
+</p>
+
+
+<h2>FRAMED TEXT</h2>
+<frame>
+Praesent lorem non, netus risus pellentesque euismod fusce.
+Sociosqu curabitur euismod, id taciti, curae mi potenti adipiscing
+venenatis. Primis metus porttitor, pharetra libero tincidunt dui aenean.
+Nullam enim, lorem ad platea. Fermentum mattis metus, tempor
+etiam ornare ut malesuada.
+</frame>
+
+
+<h2>LISTS</h2>
+<list>
+AIX
+Solaris
+HP-UX
+IRIX
+SCO Unix
+ESIX
+BSD
+</list>
+<sep>
+<list *>
+MS-DOS
+IBM PC-DOS
+DR-DOS
+ROM-DOS
+PTS-DOS
+FreeDOS
+</list>
+<sep>
+<list ->
+ARM
+X86
+Alpha
+MIPS
+PA-RISC
+PowerPC
+SPARC
+VAX
+Z80
+68000
+</list>
+
+<h2>EMPTY LINES</h2>
+<lines 10><sep>
+<lines 5>
+<h2>HISTOGRAMS</h2>
+
+<h3>PRICES FOR PRECIOUS METALS</h3>
+<histogram>
+gold|2505,25
+silver|27.835
+palladium|906,75
+platinum|939.30
+</histogram>
+
+<h3>AVERAGE PRICE OF GOLD BY YEAR</h3>
+<histogram>
+2000|279.29
+2001|271.19
+2002|310.08
+2003|363.83
+2004|409.53
+2005|444.99
+2006|604.34
+2007|696.43
+2008|872.37
+2009|973.66
+2010|1226.66
+2011|1573.16
+2012|1668.86
+2013|1409.51
+2014|1266.06
+2015|1158.86
+2016|1251.92
+2017|1260.39
+2018|1268.93
+2019|1393.34
+2020|1773.73
+2021|1798.89
+2022|1801.87
+2023|1927.99
+</histogram>
+
+
+<h2>TABLES</h2>
+<table nc>
+ID|Name|Position|Department|Salary ($)|Date Hired
+001|John Doe|Software Engineer|IT|85000|2021-06-15
+002|Jane Smith|Project Manager|Marketing|95000|2019-03-15
+003|Michael Brown|Data Analyst|IT|78000|2020-11-05
+004|Emily Davis|HR Specialist|Human Resources|68000|2018-01-10
+005|William Wilson|Accountant|Finance|80000|2017-08-30
+006|Olivia Martinez|Sales Manager|Sales|90000|2016-12-15
+007|James Johnson|Graphic Designer|Marketing|75000|2019-07-19
+008|Isabella Lee|Software Engineer|IT|85000|2022-04-25
+009|Sophia White|Business Analyst|Operations|88000|2021-09-10
+010|Lucas Taylor|CEO|Executive|150000|2015-02-01
+</table>
+
+<table>
+Item ID|Description|Quantity|Unit Price (USD)|Total Price (USD)
+1001|Laptop|2|1200|2*1200
+1002|Monitor|5|300|5*300
+1003|Keyboard|10|25|10*25
+1004|Mouse|10|15|10*15
+1005|External Hard Drive|3|100|3*100
+1006|Desk Chair|4|150|4*150
+1007|USB Hub|7|20|7*20
+</table>
+
+<center><h4>Keywords in C programming language</h4></center>
+<table nb>
+auto|break|case|char
+const|continue|default|do
+double|else|enum|extern
+float|for|goto|if
+int|long|register|return
+short|signed|sizeof|static
+struct|switch|typedef|union
+unsigned|void|volatile|while
+</table>
+
+<h3>Calculations in tables</h3>
+<table>
+val1|11^1.55+557.345*sin(56)
+val2|15*3.687^2*cos(pi/7)
+val3|cos(pi*25.386-55)/13.775
+val4|567+906-33*1.5+67/48
+val5|17^(42/32)
+val6|sqrt(144)+10*1.2
+</table>
+
+
+<h2>CALCULATIONS</h2>
+<calc>
+12^2+557.345*sin(32)
+45*33.22^2*cos(pi/4)
+(pi*22.4456-234)/13.775
+1168+5766-57*4+67/42
+13^(22/14)
+</calc>
+
+<calc>2^(3.66+5.22)</calc>
+
+<calc s>
+(12^3+777.44*1.45)/244
+sin(pi/12)*33-2.33
+(123+556)/12*33
+</calc>
+
+
+
+<h2>TEXT SEPARATORS</h2>
+<sep>
+
+<sep =>
+
+<sep +>
+
+<sep a>
+
+<sep %>
+
+
+
+
+
+
+<h2>HEADERS</h2>
+
+<h1>header type 1</h1>
+
+<h1 *>header type 1</h1>
+
+<h2>header type 2</h2>
+
+<h2 +>header type 2</h2>
+
+<h3>header type 3</h3>
+
+<h3 #>header type 3</h3>
+
+<h4>header type 4</h4>
+
+<h4 ~>header type 4</h4>
+
+
+
+<h2>INSERTING TEXT FILE CONTENT</h2>
+<center>txtfmt.c</center>
+<insert txtfmt.c>
+
+
+<h2>CHANGING DOCUMENT WIDTH</h2>
+
+<h3>default</h3>
+<table>
+aaa|bbb|ccc|ddd
+eee|fff|ggg|hhh
+123|456|789|123
+1|2|3|4
+</table>
+<histogram>
+val1|10
+val2|20
+val3|30
+</histogram>
+<sep>
+
+<doc_width 60>
+<h3>60</h3>
+<table>
+aaa|bbb|ccc|ddd
+eee|fff|ggg|hhh
+123|456|789|123
+1|2|3|4
+</table>
+<histogram>
+val1|10
+val2|20
+val3|30
+</histogram>
+<sep>
+
+<doc_width 100>
+<h3>100</h3>
+<table>
+aaa|bbb|ccc|ddd
+eee|fff|ggg|hhh
+123|456|789|123
+1|2|3|4
+</table>
+<histogram>
+val1|10
+val2|20
+val3|30
+</histogram>
+<sep>
+
+<default_width>
+<h3>set default</h3>
+<table>
+aaa|bbb|ccc|ddd
+eee|fff|ggg|hhh
+123|456|789|123
+1|2|3|4
+</table>
+<histogram>
+val1|10
+val2|20
+val3|30
+</histogram>
+<sep>
+
+
+<h2>INSERT CURRENT DATE AND TIME</h2>
+
+<date>
+
+<time>
+
+<datetime>
+
+<center>
+<frame>
+Attention!
+Tag nesting should be used with cauton,
+as in some cases it may either not work
+at all or cause a program error.
+
+Do not create nested tags in table and
+histograms. This will cause a
+segmentation fault.
+</frame>
+</center>
+
+an examples of safe use of tag nesting:
+
+<center><h4>centered header type 4</h4></center>
+
+<center><datetime></center>
+
+<right><date></right>
+
+<center><calc>12^2</calc></center>
+
+<list>
+12
+23
+443
+556
+67
+68
+7
+<calc>
+324+45345
+35345+435
+32+556
+</calc>
+</list>
+
+<frame>
+test1
+test2 test test
+<calc>
+12213+55
+5*sin(pi/3)
+343+4
+</calc>
+324
+44
+</frame>

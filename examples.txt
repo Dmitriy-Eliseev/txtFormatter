@@ -1,0 +1,511 @@
+================================================================================
+                                    EXAMPLES                                    
+================================================================================
+This is an example file that demonstrates the capabilities of txtFormatter v1.0
+
+
+================================ TEXT ALIGNMENT ================================
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+       consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+       cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+    non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+--------------------------------------------------------------------------------
+              Integer tempor phasellus augue, ut dui cras, nullam               
+               dapibus porta lectus hendrerit donec. Non molestie               
+             feugiat curabitur, dui posuere fermentum lacinia nibh.             
+             Facilisis nibh etiam, quisque nullam, commodo dictumst             
+      felis nisi potenti. Scelerisque cursus, imperdiet placerat lobortis       
+                  dolor. Aliquam quisque massa, lacus quisque,                  
+          sociosqu gravida sagittis dapibus justo egestas adipiscing.           
+
+
+================================== PARAGRAPHS ==================================
+  Fames dictumst integer suscipit, primis velit nibh, porta blandit aenean
+  venenatis ultricies quisque etiam. Sagittis suspendisse euismod, a tristique
+  dui facilisis. Ullamcorper ut hendrerit, sapien curabitur, congue mollis
+  lacinia egestas rhoncus posuere. Sociosqu massa hendrerit, rhoncus curae,
+  lobortis congue tempor a ut risus. Pellentesque ut posuere, neque curabitur,
+  viverra mauris curae nisl scelerisque. Ut curae convallis eleifend, imperdiet
+  augue dolor pharetra eu.
+
+
+  Hac aliquam risus fusce, eleifend volutpat dui, arcu metus vel nibh tortor
+  rhoncus mollis sapien. Fringilla sociosqu dapibus, enim odio, netus feugiat
+  cursus risus tincidunt. Integer phasellus quisque aenean, cursus ante nullam,
+  class sollicitudin tortor a rhoncus luctus sem. Donec rutrum, fusce aptent ut
+  tortor. Duis ligula ultrices ad, congue potenti consequat, aenean platea
+  malesuada per nullam hac feugiat dictum. Et habitasse feugiat, lacinia tortor,
+  netus quis felis cubilia venenatis. Sapien porta at, adipiscing curae
+  vulputate quis.
+
+
+  Proin quisque semper, ante dictumst etiam viverra. Est diam, enim ultricies
+  placerat. Venenatis velit per quisque, vitae himenaeos sociosqu lorem
+  placerat. Metus phasellus ad blandit, vehicula semper lacus, orci duis felis
+  nulla facilisis auctor netus. Eleifend dictumst sit, class mauris suspendisse
+  eget fringilla. Sollicitudin turpis adipiscing fusce, mollis erat risus,
+  euismod aenean morbi non purus augue diam. Fames ut torquent fermentum,
+  proin faucibus et, lacus ac est volutpat eget elit sem venenatis.
+  Rutrum eleifend porta, lectus est curae class. Amet iaculis purus, adipiscing
+  sollicitudin, potenti mollis blandit cubilia ipsum. Condimentum orci
+  maecenas, class ut feugiat gravida suspendisse.
+
+
+--------------------------------------------------------------------------------
+     Cubilia tellus lacus, pharetra urna, lectus mi velit erat proin himenaeos  
+       curae. Conubia aliquet, praesent donec netus congue. Himenaeos faucibus  
+            accumsan, duis vulputate, augue netus gravida proin lorem lacinia.  
+       Mollis etiam ultricies sit, class nostra rutrum, egestas sapien dapibus  
+    libero vivamus cursus gravida. Nec sagittis cubilia aenean, proin torquent  
+           velit, interdum tempor quam nunc pharetra curabitur. Gravida nostra  
+          adipiscing facilisis, dapibus at vulputate, interdum sollicitudin et  
+   cras justo dui. Vitae maecenas eleifend convallis, nunc interdum habitasse,  
+        cras gravida blandit libero ultricies inceptos. Aliquam mauris conubia  
+       ut, est curabitur habitasse, litora praesent orci integer odio quisque.  
+       Mollis a tempor, massa suscipit, ullamcorper purus ligula urna senectus  
+             phasellus fermentum. Sociosqu himenaeos tempor sed, quam pulvinar  
+      adipiscing, vulputate metus taciti arcu sapien praesent eleifend tellus.  
+
+
+           Tristique habitasse curae, nullam dictum, ultrices in nisl bibendum  
+           aenean curabitur fames. Mollis suscipit, eu fames nostra facilisis.  
+            Libero mauris eget, eu neque, aenean dictum suscipit est dui quam.  
+            Dapibus aenean diam blandit, convallis fermentum justo, et conubia  
+           vulputate porta nunc libero facilisis ut. Sollicitudin vitae, proin  
+                       dui class rhoncus. Duis lacus, sapien magna eget ipsum.  
+
+
+             Cras sollicitudin egestas, tristique nibh, taciti elit varius leo  
+            lobortis litora dolor. Netus lacinia curabitur volutpat, venenatis  
+             mauris sed, ut felis potenti bibendum quam ultrices sollicitudin.  
+            Vehicula sodales, congue rhoncus blandit ut. Euismod ac, venenatis  
+           lectus nisi quisque. Porttitor sodales eu, ut metus, urna erat elit  
+         phasellus fermentum ac aenean. Blandit vivamus amet, elementum velit,  
+             diam sapien dapibus congue id. Pulvinar ornare tristique aliquam,  
+                                      aenean lobortis sem consequat elementum.  
+
+
+
+
+================================== FRAMED TEXT =================================
+ .+-========================================================================-+. 
+ ||       Praesent lorem non, netus risus pellentesque euismod fusce.        || 
+ ||    Sociosqu curabitur euismod, id taciti, curae mi potenti adipiscing    || 
+ || venenatis. Primis metus porttitor, pharetra libero tincidunt dui aenean. || 
+ ||       Nullam enim, lorem ad platea. Fermentum mattis metus, tempor       || 
+ ||                        etiam ornare ut malesuada.                        || 
+ '+-========================================================================-+' 
+
+
+===================================== LISTS ====================================
+ 1) AIX
+ 2) Solaris
+ 3) HP-UX
+ 4) IRIX
+ 5) SCO Unix
+ 6) ESIX
+ 7) BSD
+--------------------------------------------------------------------------------
+ * MS-DOS
+ * IBM PC-DOS
+ * DR-DOS
+ * ROM-DOS
+ * PTS-DOS
+ * FreeDOS
+--------------------------------------------------------------------------------
+ - ARM
+ - X86
+ - Alpha
+ - MIPS
+ - PA-RISC
+ - PowerPC
+ - SPARC
+ - VAX
+ - Z80
+ - 68000
+
+================================== EMPTY LINES =================================
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+================================== HISTOGRAMS ==================================
+
+-------------------------- PRICES FOR PRECIOUS METALS --------------------------
+      gold | ######################################################## | 2505.25 
+    silver | #                                                        | 27.835 
+ palladium | ####################                                     | 906.75 
+  platinum | #####################                                    | 939.30 
+
+------------------------- AVERAGE PRICE OF GOLD BY YEAR ------------------------
+ 2000 | #########                                                     | 279.29 
+ 2001 | #########                                                     | 271.19 
+ 2002 | ##########                                                    | 310.08 
+ 2003 | ############                                                  | 363.83 
+ 2004 | #############                                                 | 409.53 
+ 2005 | ##############                                                | 444.99 
+ 2006 | ###################                                           | 604.34 
+ 2007 | ######################                                        | 696.43 
+ 2008 | ############################                                  | 872.37 
+ 2009 | ###############################                               | 973.66 
+ 2010 | #######################################                       | 1226.66 
+ 2011 | ##################################################            | 1573.16 
+ 2012 | #####################################################         | 1668.86 
+ 2013 | #############################################                 | 1409.51 
+ 2014 | ########################################                      | 1266.06 
+ 2015 | #####################################                         | 1158.86 
+ 2016 | ########################################                      | 1251.92 
+ 2017 | ########################################                      | 1260.39 
+ 2018 | ########################################                      | 1268.93 
+ 2019 | ############################################                  | 1393.34 
+ 2020 | ########################################################      | 1773.73 
+ 2021 | #########################################################     | 1798.89 
+ 2022 | #########################################################     | 1801.87 
+ 2023 | ############################################################# | 1927.99 
+
+
+==================================== TABLES ====================================
++------+---------------+-----------------+---------------+----------+----------+
+|ID    |Name           |Position         |Department     |Salary ($)|Date Hired|
++------+---------------+-----------------+---------------+----------+----------+
+|   001|John Doe       |Software Engineer|IT             |     85000|2021-06-15|
++------+---------------+-----------------+---------------+----------+----------+
+|   002|Jane Smith     |Project Manager  |Marketing      |     95000|2019-03-15|
++------+---------------+-----------------+---------------+----------+----------+
+|   003|Michael Brown  |Data Analyst     |IT             |     78000|2020-11-05|
++------+---------------+-----------------+---------------+----------+----------+
+|   004|Emily Davis    |HR Specialist    |Human Resources|     68000|2018-01-10|
++------+---------------+-----------------+---------------+----------+----------+
+|   005|William Wilson |Accountant       |Finance        |     80000|2017-08-30|
++------+---------------+-----------------+---------------+----------+----------+
+|   006|Olivia Martinez|Sales Manager    |Sales          |     90000|2016-12-15|
++------+---------------+-----------------+---------------+----------+----------+
+|   007|James Johnson  |Graphic Designer |Marketing      |     75000|2019-07-19|
++------+---------------+-----------------+---------------+----------+----------+
+|   008|Isabella Lee   |Software Engineer|IT             |     85000|2022-04-25|
++------+---------------+-----------------+---------------+----------+----------+
+|   009|Sophia White   |Business Analyst |Operations     |     88000|2021-09-10|
++------+---------------+-----------------+---------------+----------+----------+
+|   010|Lucas Taylor   |CEO              |Executive      |    150000|2015-02-01|
++------+---------------+-----------------+---------------+----------+----------+
+
++-----------+-------------------+-----------+----------------+-----------------+
+|Item ID    |Description        |Quantity   |Unit Price (USD)|Total Price (USD)|
++-----------+-------------------+-----------+----------------+-----------------+
+|       1001|Laptop             |          2|            1200|             2400|
++-----------+-------------------+-----------+----------------+-----------------+
+|       1002|Monitor            |          5|             300|             1500|
++-----------+-------------------+-----------+----------------+-----------------+
+|       1003|Keyboard           |         10|              25|              250|
++-----------+-------------------+-----------+----------------+-----------------+
+|       1004|Mouse              |         10|              15|              150|
++-----------+-------------------+-----------+----------------+-----------------+
+|       1005|External Hard Drive|          3|             100|              300|
++-----------+-------------------+-----------+----------------+-----------------+
+|       1006|Desk Chair         |          4|             150|              600|
++-----------+-------------------+-----------+----------------+-----------------+
+|       1007|USB Hub            |          7|              20|              140|
++-----------+-------------------+-----------+----------------+-----------------+
+
+                       Keywords in C programming language                       
+                       ----------------------------------                       
+auto               break               case                char                
+const              continue            default             do                  
+double             else                enum                extern              
+float              for                 goto                if                  
+int                long                register            return              
+short              signed              sizeof              static              
+struct             switch              typedef             union               
+unsigned           void                volatile            while               
+
+
+---------------------------- Calculations in tables ----------------------------
++--------------------------------------+---------------------------------------+
+|val1                                  |                               -249.554|
++--------------------------------------+---------------------------------------+
+|val2                                  |                                183.716|
++--------------------------------------+---------------------------------------+
+|val3                                  |                              0.0674094|
++--------------------------------------+---------------------------------------+
+|val4                                  |                                 1424.9|
++--------------------------------------+---------------------------------------+
+|val5                                  |                                41.2064|
++--------------------------------------+---------------------------------------+
+|val6                                  |                                     24|
++--------------------------------------+---------------------------------------+
+
+
+================================= CALCULATIONS =================================
+451.335
+35115.3
+-11.8682
+6707.6
+56.2966
+
+471.136
+
+(12^3+777.44*1.45)/244 = 11.702
+sin(pi/12)*33-2.33 = 6.21103
+(123+556)/12*33 = 1867.25
+
+
+
+================================ TEXT SEPARATORS ===============================
+--------------------------------------------------------------------------------
+
+================================================================================
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+==================================== HEADERS ===================================
+
+================================================================================
+                                 header type 1                                  
+================================================================================
+
+********************************************************************************
+                                 header type 1                                  
+********************************************************************************
+
+================================= header type 2 ================================
+
++++++++++++++++++++++++++++++++++ header type 2 ++++++++++++++++++++++++++++++++
+
+--------------------------------- header type 3 --------------------------------
+
+################################# header type 3 ################################
+
+header type 4
+-------------
+
+header type 4
+~~~~~~~~~~~~~
+
+
+
+========================== INSERTING TEXT FILE CONTENT =========================
+                                    txtfmt.c                                    
+
+/* txtfmt.c
+ *
+ * txtFormatter - A simple text formatting utility.
+ * Copyright (C) 2024 Dmitriy Eliseev
+ * <code.eliseev2003.dmitriy@yandex.com>
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program. If not, see <https://www.gnu.org/licenses/>.
+ */
+#include "tags.h"
+#include "help.h"
+
+void print_logo()
+{
+    puts("\
+\n    __       __  ______                           __  __           \
+\n   / /__  __/ /_/ ____/___  _________ ___  ____ _/ /_/ /____  _____\
+\n  / __/ |/_/ __/ /_  / __ \\/ ___/ __ `__ \\/ __ `/ __/ __/ _ \\/ ___/\
+\n / /__>  </ /_/ __/ / /_/ / /  / / / / / / /_/ / /_/ /_/  __/ /    \
+\n \\__/_/|_|\\__/_/    \\____/_/  /_/ /_/ /_/\\__,_/\\__/\\__/\\___/_/\n");
+}
+
+int main(int argc, char* argv[])
+{
+    if ( argc > 1 )
+        help();
+        
+    print_logo();
+    puts("txtFormatter text formatting utility v1.0\n"
+         "Copyright (C) 2024 Dmitriy Eliseev\n");
+    char source_file_extension[] = ".txtm";
+    char result_file_extension[] = ".txt";
+    char** files = get_files_in_dir(".", source_file_extension);
+    uint16_t files_count = get_files_count(".", source_file_extension);
+
+    if ( files_count == 0 ) {
+        puts("Error: .txtm files not found");
+        exit(EXIT_SUCCESS);
+    }
+
+    uint16_t i;
+    
+    for ( i=0; i<files_count; i++) {
+        set_doc_width(DEFAULT_DOC_WIDTH);
+        printf("processing file: %s\n", files[i]);
+        char* file_content = get_file_content(files[i]);
+
+        char* result = execute_all_tags(file_content);
+
+        change_symbols('\f', '<', result);
+        change_symbols('\a', '>', result);
+        change_symbols('\r', ' ', result);
+        change_symbols('\v', ' ', result);
+
+        char* result_file = change_file_extension(files[i],
+            result_file_extension);
+        
+        write_to_file(result_file, result);
+        puts("  done");
+
+        free(result_file);
+        free(file_content);
+        free(result);
+        free(files[i]);
+    }
+
+    free(files);
+    return 0;
+}
+
+
+
+
+
+============================ CHANGING DOCUMENT WIDTH ===========================
+
+------------------------------------ default -----------------------------------
++------------------+-------------------+-------------------+-------------------+
+|aaa               |bbb                |ccc                |ddd                |
++------------------+-------------------+-------------------+-------------------+
+|eee               |fff                |ggg                |hhh                |
++------------------+-------------------+-------------------+-------------------+
+|               123|                456|                789|                123|
++------------------+-------------------+-------------------+-------------------+
+|                 1|                  2|                  3|                  4|
++------------------+-------------------+-------------------+-------------------+
+ val1 | ######################                                             | 10 
+ val2 | ############################################                       | 20 
+ val3 | ################################################################## | 30 
+--------------------------------------------------------------------------------
+
+
+---------------------------- 60 ----------------------------
++-------------+--------------+--------------+--------------+
+|aaa          |bbb           |ccc           |ddd           |
++-------------+--------------+--------------+--------------+
+|eee          |fff           |ggg           |hhh           |
++-------------+--------------+--------------+--------------+
+|          123|           456|           789|           123|
++-------------+--------------+--------------+--------------+
+|            1|             2|             3|             4|
++-------------+--------------+--------------+--------------+
+ val1 | ###############                                | 10 
+ val2 | ###############################                | 20 
+ val3 | ############################################## | 30 
+------------------------------------------------------------
+
+
+------------------------------------------------ 100 -----------------------------------------------
++-----------------------+------------------------+------------------------+------------------------+
+|aaa                    |bbb                     |ccc                     |ddd                     |
++-----------------------+------------------------+------------------------+------------------------+
+|eee                    |fff                     |ggg                     |hhh                     |
++-----------------------+------------------------+------------------------+------------------------+
+|                    123|                     456|                     789|                     123|
++-----------------------+------------------------+------------------------+------------------------+
+|                      1|                       2|                       3|                       4|
++-----------------------+------------------------+------------------------+------------------------+
+ val1 | #############################                                                          | 10 
+ val2 | #########################################################                              | 20 
+ val3 | ###################################################################################### | 30 
+----------------------------------------------------------------------------------------------------
+
+
+---------------------------------- set default ---------------------------------
++------------------+-------------------+-------------------+-------------------+
+|aaa               |bbb                |ccc                |ddd                |
++------------------+-------------------+-------------------+-------------------+
+|eee               |fff                |ggg                |hhh                |
++------------------+-------------------+-------------------+-------------------+
+|               123|                456|                789|                123|
++------------------+-------------------+-------------------+-------------------+
+|                 1|                  2|                  3|                  4|
++------------------+-------------------+-------------------+-------------------+
+ val1 | ######################                                             | 10 
+ val2 | ############################################                       | 20 
+ val3 | ################################################################## | 30 
+--------------------------------------------------------------------------------
+
+
+========================= INSERT CURRENT DATE AND TIME =========================
+
+16.10.2024
+
+20:24:30
+
+16.10.2024 20:24:30
+
+                 .+-=======================================-+.                  
+                 ||               Attention!                ||                  
+                 || Tag nesting should be used with cauton, ||                  
+                 || as in some cases it may either not work ||                  
+                 ||    at all or cause a program error.     ||                  
+                 || Do not create nested tags in table and  ||                  
+                 ||      histograms. This will cause a      ||                  
+                 ||           segmentation fault.           ||                  
+                 '+-=======================================-+'                  
+
+an examples of safe use of tag nesting:
+
+                             centered header type 4                             
+                             ----------------------                             
+
+                              16.10.2024 20:24:30                               
+
+                                                                      16.10.2024
+
+                                      144                                       
+
+  1) 12
+  2) 23
+  3) 443
+  4) 556
+  5) 67
+  6) 68
+  7) 7
+  8) 45669
+  9) 35780
+ 10) 588
+
+ .+-===============-+. 
+ ||      test1      || 
+ || test2 test test || 
+ ||      12268      || 
+ ||     4.33013     || 
+ ||       347       || 
+ ||       324       || 
+ ||       44        || 
+ '+-===============-+' 
